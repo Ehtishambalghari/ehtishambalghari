@@ -7,9 +7,12 @@
   
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/axiftaj">
-    <img src="https://github.com/Ehtishambalghari/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+ <div id="badges">
+  <a href="https://github.com/Ehtishambalghari">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
+</div>
+
   <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
