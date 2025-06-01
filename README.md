@@ -1,3 +1,3 @@
-##  Assalamu Alaikum!🖐️ I'm Ehtisham ul Haq Balghari 
+##  Assalam-u-Alaikum!🖐️ I'm Ehtisham ul Haq Balghari 
 
 
