@@ -1,11 +1,9 @@
 ##  Assalam-u-Alaikum!🖐️ I'm Ehtisham ul Haq Balghari 
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: axiftaj@gmail.com
-- 😄 My website: https://thetechbrothers.net
-- ⚡ Fun fact: I'm comming to teen
+- 🔭 I’m currently working on  AI (Artificial Intelligence)  
+- 🌱 I’m currently learning Basics of Artificial Intelligence and machine learning
+- 📫 How to reach me: ehtishambalghari73@gmail.com
+- 😄 My website: https://
   
 ### Connect with me:
 <div id="badges">
@@ -25,14 +23,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
-
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
-
 
 <br>
 ⭐️ From [axiftaj](https://github.com/axiftaj)
