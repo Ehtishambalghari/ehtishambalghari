@@ -1,18 +1,17 @@
 ## Assalamu Alaikum! 🖐️ I'm Ehtisham ul Haq Balghari
 
-👋 Welcome to my GitHub profile!  
-I'm a passionate Computer Science student focused on Artificial Intelligence and Machine Learning.
+👨‍💻 **Computer Science Student | Aspiring AI & ML Engineer | Coding & Tech Enthusiast | Passionate Learner**
 
 ---
 
 ### 🔭 What I'm working on
-- Building AI projects and exploring practical applications of Artificial Intelligence  
-- Improving my skills in machine learning algorithms and Python programming
+- Developing AI and Machine Learning projects  
+- Building modern, responsive websites using HTML, CSS, and JavaScript
 
 ### 🌱 What I'm learning
-- Basics of Artificial Intelligence  
-- Machine learning concepts and techniques  
-- Python libraries like NumPy, Pandas, and TensorFlow
+- Fundamentals of Artificial Intelligence & Machine Learning  
+- Advanced Python programming  
+- Web development frameworks and tools (React, Node.js, etc.)
 
 ### 📫 How to reach me
 - Email: [ehtishambalghari73@gmail.com](mailto:ehtishambalghari73@gmail.com)  
@@ -44,6 +43,8 @@ I'm a passionate Computer Science student focused on Artificial Intelligence and
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </div>
 
 ---
